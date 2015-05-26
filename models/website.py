@@ -39,3 +39,4 @@ class website(Model):
         'checkout_country_rel',
         'website_id', 'country_id',
         'Checkout Countries')
+
